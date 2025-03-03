@@ -1,9 +1,12 @@
 # client-service
 Microservicio 1 que corresponde a Persona y Cliente
 
+URL de GitHub:
+https://github.com/nicodema/client-service
+
 Se utilizo como base de datos H2, no tiene script ya que se creo la estructura desde la aplicacion y se ingreso Clientes de prueba
 
-Para probar los servicios:
+Para probar los servicios en POSTMAN:
 
 - Obtener Cliente por Id persona:
 GET - http://localhost:8081/api/clientes/1
