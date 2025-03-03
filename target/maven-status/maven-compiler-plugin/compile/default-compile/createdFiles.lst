@@ -1,0 +1,11 @@
+com/devsu/clientservice/controller/ClienteController.class
+com/devsu/clientservice/ClientServiceApplication.class
+com/devsu/clientservice/repository/ClienteRepository.class
+com/devsu/clientservice/config/DataLoader.class
+com/devsu/clientservice/exception/GeneralExceptionHandler.class
+com/devsu/clientservice/model/Cliente.class
+com/devsu/clientservice/exception/ClienteException.class
+com/devsu/clientservice/model/Persona.class
+com/devsu/clientservice/config/RabbitMQConfig.class
+com/devsu/clientservice/service/ClienteService.class
+com/devsu/clientservice/service/ClienteServiceImpl.class

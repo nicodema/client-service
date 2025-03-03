@@ -1,0 +1,11 @@
+/Users/nicodema/CATA/Devsu/client-service/src/main/java/com/devsu/clientservice/ClientServiceApplication.java
+/Users/nicodema/CATA/Devsu/client-service/src/main/java/com/devsu/clientservice/config/DataLoader.java
+/Users/nicodema/CATA/Devsu/client-service/src/main/java/com/devsu/clientservice/config/RabbitMQConfig.java
+/Users/nicodema/CATA/Devsu/client-service/src/main/java/com/devsu/clientservice/controller/ClienteController.java
+/Users/nicodema/CATA/Devsu/client-service/src/main/java/com/devsu/clientservice/exception/ClienteException.java
+/Users/nicodema/CATA/Devsu/client-service/src/main/java/com/devsu/clientservice/exception/GeneralExceptionHandler.java
+/Users/nicodema/CATA/Devsu/client-service/src/main/java/com/devsu/clientservice/model/Cliente.java
+/Users/nicodema/CATA/Devsu/client-service/src/main/java/com/devsu/clientservice/model/Persona.java
+/Users/nicodema/CATA/Devsu/client-service/src/main/java/com/devsu/clientservice/repository/ClienteRepository.java
+/Users/nicodema/CATA/Devsu/client-service/src/main/java/com/devsu/clientservice/service/ClienteService.java
+/Users/nicodema/CATA/Devsu/client-service/src/main/java/com/devsu/clientservice/service/ClienteServiceImpl.java
